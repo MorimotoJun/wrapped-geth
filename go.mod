@@ -1,4 +1,4 @@
-module github.com/MorimotoJun/wrapped-geth
+module github.com/forejun/wrapped-geth
 
 go 1.18
 
