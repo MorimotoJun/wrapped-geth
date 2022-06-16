@@ -29,7 +29,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MorimotoJun/wrapped-geth/accounts"
+	"github.com/ethereum/go-ethereum/accounts"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/google/uuid"
